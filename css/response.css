@@ -1,0 +1,15 @@
+@media screen and (max-width:768px){
+  header .wrap ul.gnb{
+    display: none;
+  }
+  header .wrap ul.lang{
+    
+  display: none;
+  }
+  
+  .ham{
+    
+
+  display: flex;
+  }
+}
